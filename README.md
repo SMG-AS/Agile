@@ -1,3 +1,1 @@
-Third Version it is isn't it
-Taging
-Stashing
+Clone Repository of the remote repo
